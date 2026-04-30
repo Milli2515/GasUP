@@ -1,0 +1,20 @@
+{
+  "versao": "1.0.0",
+  "notas": "Versão inicial da biblioteca GasUp",
+  "familias": [
+    {
+      "nome": "Aquecedor Gás",
+      "arquivo": "Aquecedor_Gas.rfa",
+      "versao": "1.0.0",
+      "descricao": "Aquecedor a gás — tipos por número de chuveiros",
+      "pc": "340 / 650 / 870 / 1062"
+    },
+    {
+      "nome": "Fogão Gás",
+      "arquivo": "Fogao_Gas.rfa",
+      "versao": "1.0.0",
+      "descricao": "Fogão a gás — tipos por número de bocas",
+      "pc": "185 / 220"
+    }
+  ]
+}
